@@ -14,7 +14,7 @@ Users can easily prebook meeting rooms before their scheduled meetings. The admi
 	composer install
 	npm install
 	```
-3. Configre environment.
+3. Configure environment.
 	```
 	cp .env.example .env
 	php artisan key:generate
